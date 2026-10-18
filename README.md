@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Category](https://img.shields.io/badge/Category-OSINT%20%2F%20Cyber%20Threat%20Intelligence-blue?style=for-the-badge&logo=torbrowser)
+![Category](https://img.shields.io/badge/Category-OSINT%20with%20DFIR-blue?style=for-the-badge&logo=torbrowser)
 ![Status](https://img.shields.io/badge/Status-Solved-success?style=for-the-badge&logo=checkmarx)
 ![CTF](https://img.shields.io/badge/CTF-Cryptix%20CTF-orange?style=for-the-badge)
 ![Organizer](https://img.shields.io/badge/Organizer-HTU%20Cyber%20Club-blue?style=for-the-badge)
@@ -25,7 +25,7 @@
 | Field | Detail |
 | :--- | :--- |
 | **Challenge Name** | Behind the Shroud |
-| **Category** | OSINT / Cyber Threat Intelligence |
+| **Category** | OSINT with DFIR (Cyber Threat Intelligence) |
 | **Key Subjects** | Hamza Bendelladj (Bx1), Aleksandr Panin (Gribodemon), Daniel Placek (M1rr0r) |
 | **Target Infrastructure** | Darkode Cybercrime Marketplace |
 | **Final Flag** | `Cryptix{OperationShroudedHorizon_12_M1rr0r}` |
